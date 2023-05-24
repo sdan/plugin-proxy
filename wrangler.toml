@@ -1,0 +1,8 @@
+name = "plugin-proxy"
+main = "src/index.ts"
+compatibility_date = "2023-05-23"
+
+analytics_engine_datasets = [
+    { binding = "CWP_ANALYTICS" }
+]
+
